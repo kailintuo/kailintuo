@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kailintuo
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me : kailin.tuo@gmail.com
 
 <!---
